@@ -7,5 +7,5 @@ This project aims to create a location defined environmental database. This is u
 August 2022
 
 1. Open index.html in your browser please?
-
+2. I'm confused
 
