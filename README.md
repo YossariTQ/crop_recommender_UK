@@ -24,11 +24,10 @@ Alongside this README, in the repository you will find...
 	a) Files to run the PKBCRS:
 
 	- main.py 
-  - longitude.py
-  - latitude.py
-  - dialogue.py
-  - mongo_connection.py
-
+	- longitude.py
+	- latitude.py
+	- dialogue.py
+	- mongo_connection.py
 	- environmental_soil_final.csv (The locational environmental and soil dataset used to extract the features upon which ARIMA was applied to create the 2023 User Profile).
 
 	
